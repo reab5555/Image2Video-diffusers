@@ -1,0 +1,14 @@
+google-cloud-storage
+torch
+diffusers
+transformers
+pillow
+numpy
+accelerate
+opencv-python
+gputil
+psutil
+sentencepiece
+safetensors
+imageio
+imageio-ffmpeg
