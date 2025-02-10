@@ -1,4 +1,4 @@
-# Image to Video Conversion Pipeline (Diffusers)
+# Image to Video Conversion Pipeline
 
 This project provides a scalable and GPU-optimized pipeline designed to convert high-resolution images into videos. It utilizes advanced AI models and supports seamless integration with Google Cloud Storage. The pipeline is equipped to handle multiple GPUs for efficient processing and includes features for real-time GPU monitoring.
 
